@@ -1,7 +1,7 @@
 <h1>Spring Boot Cloud config</h1>
 <p align="center" >
   <a href="README.md">
-   <img src="OverallArchitecture.png" alt="Logo" width="332" height="200">
+   <img src="OverallArchitecture.png" alt="Logo">
     </a>
   <h3 align="center">Spring Boot Cloud config</h3>
 </p>
